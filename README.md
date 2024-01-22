@@ -37,13 +37,13 @@
    - RF (Random Forest)
    - KNN (K-Nearest Neighbors)
 10. Tahmin - Prediction
-   - 'Normal_Weight'
-   - 'Overweight_Level_I'
-   - 'Overweight_Level_II'
-   - 'Obesity_Type_I'
-   - 'Insufficient_Weight'
-   - 'Obesity_Type_II'
-   - 'Obesity_Type_III'
+    - Normal_Weight
+    - Overweight_Level_I
+    - Overweight_Level_II
+    - Obesity_Type_I
+    - Insufficient_Weight
+    - Obesity_Type_II
+    - Obesity_Type_III
 11. Değerlendirme Metrikleri - Evaulation Metrics
     - Accuracy
     - Classification Report: Precision - Recall - F1 Score
