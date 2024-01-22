@@ -23,11 +23,12 @@
 3. Veriyi Keşfetme ve Inceleme
 4. Veri Ön İşleme - Data Prepprocessing
    - Veriyi temizleme ve düzenleme
-   - Eksik veya anlamsız verileri dönüştürme, silme veya doldurma
-   - Veri formatlarını düzenleme-encoder
+   - Eksik veya anlamsız verileri görme
+   - Veri formatlarını düzenleme ('Age' - float64->int64)
 5. Veri Görselleştirme - Data Visualization
    - Veri setini anlamak amacıyla grafiklerin çizdirilmesi ve yorumlanması
-6. Verinin Normalize Edilmesi - Normalizing Data
+6. Label Encoder ve One-Hot Encoder İşlemi
+7. Verinin Normalize Edilmesi - Normalizing Data
    - StandardScaler()
 8. Veri Bölme - Data Splitting
    - 80-20 şeklinde eğitim ve test verisini bölme.
@@ -36,13 +37,13 @@
    - RF (Random Forest)
    - KNN (K-Nearest Neighbors)
 10. Tahmin - Prediction
-   - 'Normal_Weight'
-   - 'Overweight_Level_I'
-   - 'Overweight_Level_II'
-   - 'Obesity_Type_I'
-   - 'Insufficient_Weight'
-   - 'Obesity_Type_II'
-   - 'Obesity_Type_III'
+    - Normal_Weight
+    - Overweight_Level_I
+    - Overweight_Level_II
+    - Obesity_Type_I
+    - Insufficient_Weight
+    - Obesity_Type_II
+    - Obesity_Type_III
 11. Değerlendirme Metrikleri - Evaulation Metrics
     - Accuracy
     - Classification Report: Precision - Recall - F1 Score
