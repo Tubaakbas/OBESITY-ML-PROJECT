@@ -28,7 +28,7 @@
 5. Veri Görselleştirme - Data Visualization
    - Veri setini anlamak amacıyla grafiklerin çizdirilmesi ve yorumlanması
 6. Label Encoder ve One-Hot Encoder İşlemi
-7. . Verinin Normalize Edilmesi - Normalizing Data
+7. Verinin Normalize Edilmesi - Normalizing Data
    - StandardScaler()
 8. Veri Bölme - Data Splitting
    - 80-20 şeklinde eğitim ve test verisini bölme.
