@@ -27,14 +27,15 @@
    - Veri formatlarını düzenleme-encoder
 5. Veri Görselleştirme - Data Visualization
    - Veri setini anlamak amacıyla grafiklerin çizdirilmesi ve yorumlanması
-6. x_data ve y_data olarak verinin eğitim ve test aşamasında ayrılması ardından normalizasyon işleminin yapılması.
-7. Veri Bölme - Data Splitting
+6. Verinin Normalize Edilmesi - Normalizing Data
+   - StandardScaler()
+8. Veri Bölme - Data Splitting
    - 80-20 şeklinde eğitim ve test verisini bölme.
-8. Sınıflandırma - Classification
-   - SVM
-   - RF
-   - KNN
-9. Tahmin - Prediction
+9. Sınıflandırma - Classification
+   - SVM (Support Vector Machine)
+   - RF (Random Forest)
+   - KNN (K-Nearest Neighbors)
+10. Tahmin - Prediction
    - 'Normal_Weight'
    - 'Overweight_Level_I'
    - 'Overweight_Level_II'
@@ -42,7 +43,7 @@
    - 'Insufficient_Weight'
    - 'Obesity_Type_II'
    - 'Obesity_Type_III'
-10. Değerlendirme Metrikleri - Evaulation Metrics
+11. Değerlendirme Metrikleri - Evaulation Metrics
     - Accuracy
     - Classification Report: Precision - Recall - F1 Score
     - Confusion Matrix
