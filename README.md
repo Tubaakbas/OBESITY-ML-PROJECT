@@ -1,14 +1,14 @@
-## SistersLab - Ada Lovelace Academy: Obesize Projesi
+# SistersLab - Ada Lovelace Academy: Veri Bilimi Akademisi Final Projesi
 
-# Proje Adı:
+## Proje Adı:
 
 - Bireyin Obezite Seviyesini Tahmin Etme
 
-# Proje Açıklaması:
+## Proje Açıklaması:
 
 - Normal kilolu ve obez yetişkinler karşılaştırıldığında, obezitesi olan yetişkinlerin %51'inde hipertansiyon, %21'inde miyokard enfarktüsü, %8'inde iskemik kalp hastalığı, %3,5'inde konjestif kalp yetmezliği ve %3'ünde felç tespit edilmiştir. Bu istatistikler, günümüzde artan obezitenin önüne geçilmesi amacıyla eğitilen modellerin ve elde edilen sonuçların önemini vurgulamaktadır. Bu veriler ışığında, bireyler kendi sağlık durumları hakkında bilgi sahibi olabilir ve olası hastalıkların önlenmesi için gerekli adımları atabilirler.
 
-# Veri Seti Hakkında:
+## Veri Seti Hakkında:
 
 - Veri seti; Meksika, Peru ve Kolombiya ülkelerinden 14-61 yaşları arasındaki farklı beslenme alışkanlıkları ve fiziksel durumdaki kişilerde obezite düzeylerini içermektedir.
 - 17 kolon ve 2111 satırdan oluşmaktadır.
@@ -16,7 +16,7 @@
 
 - BMI_Obesity_Level ve BMI kolonlarının veri setini arttırarak daha iyi sonuçlar elde edilmesine katkı sağlayacağı düşünülerek eklenmiştir.
 
-# Yol Haritası:
+## Yol Haritası:
 
 1. Gerekli Kütüphaneleri İçe Aktarma
 2. Veriyi Alma - Input Data
