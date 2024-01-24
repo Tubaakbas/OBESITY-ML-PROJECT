@@ -37,14 +37,18 @@
    - RF (Random Forest)
    - KNN (K-Nearest Neighbors)
 10. Tahmin - Prediction
-    - Normal_Weight
-    - Overweight_Level_I
-    - Overweight_Level_II
-    - Obesity_Type_I
-    - Insufficient_Weight
-    - Obesity_Type_II
-    - Obesity_Type_III
 11. Değerlendirme Metrikleri - Evaulation Metrics
     - Accuracy
     - Classification Report: Precision - Recall - F1 Score
     - Confusion Matrix
+
+Kurulum:
+
+- Projeyi çalıştırmak için bir kopyasını indirebilirsiniz.
+- Gerekli kütüphaneleri yükleyiniz.
+- Ardından veri setini de alarak obesitiy-ml-project.ipynb dosyasındaki diğer aşamaları uygulayabilirsiniz.
+
+Proje Gereksinimleri:
+
+- Sürüm: Python 3.11.5
+- requirements.txt dosyası içerisinde kütüphanelerin sürümlerini kontrol edebilirsiniz.
